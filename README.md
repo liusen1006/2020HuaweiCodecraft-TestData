@@ -7,3 +7,5 @@
 感谢:
 
 chenchen  提供数据  38252
+
+54这组数据包含自环，不符合官方要求,感谢HydrogenSulfate (https://github.com/HydrogenSulfate) 指出
